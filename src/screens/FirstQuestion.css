@@ -1,0 +1,11 @@
+form > h1 {
+  font-size: 1.25rem;
+  text-align: center;
+  font-weight: 500;
+}
+.firstQuestion > p {
+  text-align: center;
+  padding-top: 2rem;
+  font-size: 2rem;
+  color: green;
+}

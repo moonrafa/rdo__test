@@ -1,0 +1,11 @@
+button > a,
+button > a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.copy {
+  position: absolute;
+  bottom: 0;
+  cursor: pointer;
+}

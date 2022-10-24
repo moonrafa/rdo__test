@@ -4,4 +4,4 @@
 
 ## Código disponível também no repositório do <a href="https://github.com/moonrafa/rdo__test">Github</a>
 
-## Versão live no <a href="https://github.com/moonrafa/rdo__test">moonrafa.github.io/rdo\_\_test</a>
+## Versão live da página <a href="https://teste-rdo.web.app">aqui</a>
